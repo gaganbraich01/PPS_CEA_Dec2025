@@ -1,0 +1,13 @@
+```username
+#include <iostream>
+using namespace std;
+int main() {
+   int a;
+   cout<<" Available money in the pocket : ";
+   cin>>a;
+   cout<<" After five years : ";
+   cout<<a*50,000;
+   return 0;
+}
+```
+![img alt] ()
