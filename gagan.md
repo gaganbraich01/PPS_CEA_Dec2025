@@ -1,3 +1,4 @@
+```c++
 #include <iostream>
 using namespace std;
 
@@ -20,5 +21,6 @@ int main() {
   cout<<"       |        \n";
   return 0;
 }
-![img alt]() 
+```
+![img alt](https://github.com/gaganbraich01/PPS_CEA_Dec2025/blob/main/kaur.png) 
 
