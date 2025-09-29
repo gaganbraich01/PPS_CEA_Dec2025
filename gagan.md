@@ -25,3 +25,17 @@ int main() {
 ```
 ![img alt](https://github.com/gaganbraich01/PPS_CEA_Dec2025/blob/main/kaur.png) 
 
+
+```username
+#include <iostream>
+using namespace std;
+int main() {
+   int a;
+   cout<<" Available money in the pocket : ";
+   cin>>a;
+   cout<<" After five years : ";
+   cout<<a*50,000;
+   return 0;
+}
+```
+![img alt](https://github.com/gaganbraich01/PPS_CEA_Dec2025/blob/main/code%20run%20username.png)
