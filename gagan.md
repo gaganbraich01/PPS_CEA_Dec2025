@@ -65,4 +65,4 @@ int main() {
     return 0;
 }
 ```
-![img alt]()
+![img alt](https://github.com/gaganbraich01/PPS_CEA_Dec2025/blob/main/switch%20case.png)
