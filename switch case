@@ -1,4 +1,5 @@
-
+```C++
+\\WAP switch case
 #include <iostream>
 using namespace std;
 
