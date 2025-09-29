@@ -39,3 +39,29 @@ int main() {
 }
 ```
 ![img alt](https://github.com/gaganbraich01/PPS_CEA_Dec2025/blob/main/code%20run%20username.png)
+
+
+
+
+```C++
+\\WAP switch case
+#include <iostream>
+using namespace std;
+
+int main() {
+    int a;
+    cin>>a;
+    switch(a)
+    {
+    case 1:cout<<"one";
+    break;
+    case 2:cout<<"two";
+    break;
+    case 3: cout<<"three";
+    break;   
+    default:
+    cout<<"sorry wrong input";
+    }
+    return 0;
+}
+
