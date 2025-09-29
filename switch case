@@ -12,7 +12,9 @@ int main() {
     case 2:cout<<"two";
     break;
     case 3: cout<<"three";
-    break;
+    break;   
+    default:
+    cout<<"sorry wrong input";
     }
     return 0;
 }
