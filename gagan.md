@@ -66,3 +66,18 @@ int main() {
 }
 ```
 ![img alt](https://github.com/gaganbraich01/PPS_CEA_Dec2025/blob/main/switch%20case.png)
+
+
+
+```c++ sorry 20 times
+#include <iostream>
+using namespace std;
+
+int main() {
+    int i;
+    for(i=1; i<=20; i++){
+    cout<<i<<" sorry"<<endl;
+}
+    return 0;
+}
+![img alt]()
