@@ -80,3 +80,20 @@ int main() {
 }
 ```
 ![img alt](https://github.com/gaganbraich01/PPS_CEA_Dec2025/blob/main/sorry.png)
+
+
+``c++
+// 2 table
+#include <iostream>
+using namespace std;
+
+int main() {
+    int i;
+    for(i=1; i<=10; i++){
+    cout<<"2*"<<i<<"="<<2*i<<endl;
+}
+    return 0;
+}
+```
+![img alt]()
+
