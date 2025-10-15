@@ -25,7 +25,8 @@ int main() {
 ```
 ![img alt](https://github.com/gaganbraich01/PPS_CEA_Dec2025/blob/main/kaur.png) 
 
-\\money after 5 year
+``C++
+// WAP money after 5 year
 ```username
 #include <iostream>
 using namespace std;
@@ -41,9 +42,6 @@ int main() {
 ![img alt](https://github.com/gaganbraich01/PPS_CEA_Dec2025/blob/main/code%20run%20username.png)
 
 
-
-
-\\one,two,three input
 ```C++
 \\WAP switch case
 #include <iostream>
@@ -69,8 +67,8 @@ int main() {
 ![img alt](https://github.com/gaganbraich01/PPS_CEA_Dec2025/blob/main/switch%20case.png)
 
 
+```c++
 // sorry 20 times
-```c++ sorry 20 times
 #include <iostream>
 using namespace std;
 
