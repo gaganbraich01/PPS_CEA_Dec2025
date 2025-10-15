@@ -82,7 +82,7 @@ int main() {
 ![img alt](https://github.com/gaganbraich01/PPS_CEA_Dec2025/blob/main/sorry.png)
 
 
-``c++
+```c++
 // 2 table
 #include <iostream>
 using namespace std;
