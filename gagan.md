@@ -97,3 +97,21 @@ int main() {
 ```
 ![img alt](https://github.com/gaganbraich01/PPS_CEA_Dec2025/blob/main/2%20table.png)
 
+
+
+```c++
+// t variable table
+#include <iostream>
+using namespace std;
+
+int main() {
+    int i,t;
+    cin>>t;
+    for(i=1; i<=10; i++){
+    cout<<t<<"*"<<i<<"="<<t*i<<endl;
+}
+    return 0;
+}
+```
+![img alt]()
+
