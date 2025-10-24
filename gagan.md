@@ -135,3 +135,23 @@ int main(){
 }
 ```
 ![img alt](https://github.com/gaganbraich01/PPS_CEA_Dec2025/blob/main/default.png)
+
+
+```c++
+//case-2
+#include <iostream>
+using namespace std;
+
+int main(){
+    int choice=-2;
+    switch(choice){
+        case -1:
+        cout<<"Case:-1\n";
+        break;
+        case-2:
+        cout<<"case:-2\n";
+        break;
+    }
+}
+```
+![img alt]()
