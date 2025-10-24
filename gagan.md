@@ -115,3 +115,23 @@ int main() {
 ```
 ![img alt](https://github.com/gaganbraich01/PPS_CEA_Dec2025/blob/main/t%20variable%20table.png)
 
+```c++
+// case
+#include <iostream>
+using namespace std;
+
+int main(){
+    int x = 4;
+    switch(x){
+        default:cout<<"Given value other than 1,2 and 3";
+        break;
+        case 1 : cout<<"Given value is 1";
+        break;
+        case 2 : cout<<"Given value is 2";
+        break;
+        case 1+2 : cout<<"Given value is 3";
+    }
+    return 0;
+}
+```
+![img alt]()
